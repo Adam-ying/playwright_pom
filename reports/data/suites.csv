@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Oct 17 20:03:47 CST 2023","Tue Oct 17 20:04:24 CST 2023","36714","test_cases","test_search","TestSearch","","","test_save_setting",""
+"passed","Tue Oct 17 20:02:59 CST 2023","Tue Oct 17 20:03:44 CST 2023","44129","test_cases","test_search","TestSearch","","","test_baidu_search",""
+"broken","Tue Oct 17 20:04:26 CST 2023","Tue Oct 17 20:04:26 CST 2023","0","test_cases","test_search","TestSearch","","","test_zzzz1",""
